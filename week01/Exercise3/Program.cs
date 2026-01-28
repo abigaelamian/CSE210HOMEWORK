@@ -13,7 +13,7 @@ class Program
               while (guess != magicNumber)
             {
                 Console.Write("What is your guess? ");
-                3
+                
                 guessCount++;
 
                 if (guess < magicNumber)
